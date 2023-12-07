@@ -1,0 +1,20 @@
+body {
+  background-color: #f8e8a6;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  margin: 20px 0 20px 0;
+  border-radius: 10px;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.link {
+  color: green;
+}
