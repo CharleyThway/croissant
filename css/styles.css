@@ -4,7 +4,7 @@ body {
 }
 
 img {
-  width: 100%;
+  width: 60%;
   margin: 20px 0 20px 0;
   border-radius: 10px;
 }
@@ -17,4 +17,10 @@ img {
 
 .link {
   color: green;
+}
+
+@media (max-width: 800px) {
+  img {
+    width: 100%;
+  }
 }
